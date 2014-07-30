@@ -1,0 +1,4 @@
+path.data: ../../data/
+bootstrap.mlockall: true
+#indices.memory.index_buffer_size: 50%
+index.translog.flush_threshold_ops: 50000
